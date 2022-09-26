@@ -1,0 +1,10 @@
+com\accenture\lkm\test\controller\UnitControllerTest.class
+com\accenture\lkm\test\MaterialServiceApplicationTests.class
+com\accenture\lkm\test\dao\MaterialServiceDAOTest.class
+com\accenture\lkm\test\service\MaterialServiceTest.class
+com\accenture\lkm\test\service\MaterialTypeServiceTest.class
+com\accenture\lkm\test\dao\UnitDAOTest.class
+com\accenture\lkm\test\controller\MaterialServiceControllerTest.class
+com\accenture\lkm\test\controller\MaterialTypeControllerTest.class
+com\accenture\lkm\test\dao\MaterialTypeDAOTest.class
+com\accenture\lkm\test\service\UnitServiceTest.class

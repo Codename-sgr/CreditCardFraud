@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.accenture.lkm.test.controller.MaterialTypeControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.138 sec - in com.accenture.lkm.test.controller.MaterialTypeControllerTest

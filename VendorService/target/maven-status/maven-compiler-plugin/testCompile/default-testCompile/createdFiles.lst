@@ -1,0 +1,4 @@
+com\accenture\lkm\test\service\VendorServiceTest.class
+com\accenture\lkm\test\dao\VendorDAOTest.class
+com\accenture\lkm\VendorServiceApplicationTests.class
+com\accenture\lkm\test\controller\VendorControllerTest.class

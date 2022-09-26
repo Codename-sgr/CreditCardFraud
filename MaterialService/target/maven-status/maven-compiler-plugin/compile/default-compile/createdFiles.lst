@@ -1,0 +1,15 @@
+com\accenture\lkm\dao\UnitDAO.class
+com\accenture\lkm\service\MaterialServiceImpl.class
+com\accenture\lkm\MaterialServiceApplication.class
+com\accenture\lkm\entity\MaterialCategoryEntity.class
+com\accenture\lkm\dao\MaterialCategoryDAO.class
+com\accenture\lkm\entity\UnitEntity.class
+com\accenture\lkm\business\bean\MaterialCategoryBean.class
+com\accenture\lkm\service\MaterialService.class
+com\accenture\lkm\business\bean\UnitBean.class
+com\accenture\lkm\controller\UnitController.class
+com\accenture\lkm\controller\MaterialTypeController.class
+com\accenture\lkm\controller\MaterialController.class
+com\accenture\lkm\dao\MaterialTypeDAO.class
+com\accenture\lkm\business\bean\MaterialTypeBean.class
+com\accenture\lkm\entity\MaterialTypeEntity.class
